@@ -1,8 +1,5 @@
 >clone from web.localsend.org use cloudflare free page
 
->please fork and change your account_id in wrangler.toml.
-
-
 ```
 export CF_ACCOUNT_ID="your_account_id_here"
 npx wrangler deploy
